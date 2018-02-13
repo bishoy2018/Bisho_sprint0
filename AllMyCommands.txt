@@ -1,0 +1,12 @@
+a)	$ git init
+b)	$ git add 1st_file.docx // $ git add 2nd_file.docx // $ git add 3rd_file.docx
+c)	$ git rm --cached 2nd_file.docx
+d)	$ git add 2nd_file.docx
+e)	$ git commit -m " now i will add the 3 files "
+f)	$ git push -u origin master
+g)	Ss
+h)	$ git branch ReadMe
+i)	$ git checkout ReadMe THEN $ git add ReadMe.md.docx
+j)	$ git commit -m " we now addded the ReadMe file "
+k)	$ git checkout master THEN $ git merge ReadMe
+l)	$ git add AllMyCommands.txt THEN  $ git commit –m “ now I added the AllMyCommands file 
